@@ -1,0 +1,10 @@
+^E:\KULIAH\ELEKTRO\SEMESTER 4\PMC\SEMESTER GANJIL\PRAKTEK\KELOMPOK_3\TUTORIAL\BUILD\CMAKEFILES\6C0121ABE8790BA69298E0738B357787\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/Kuliah/Elektro/Semester 4/PMC/Semester ganjil/Praktek/kelompok_3/Tutorial" "-BE:/Kuliah/Elektro/Semester 4/PMC/Semester ganjil/Praktek/kelompok_3/Tutorial/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/Kuliah/Elektro/Semester 4/PMC/Semester ganjil/Praktek/kelompok_3/Tutorial/build/C.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

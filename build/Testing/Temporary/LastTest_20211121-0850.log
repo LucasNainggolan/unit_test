@@ -1,0 +1,44 @@
+Start testing: Nov 21 16:27 SE Asia Standard Time
+----------------------------------------------------------
+1/1 Testing: TutorialTests
+1/1 Test: TutorialTests
+Command: "E:/Kuliah/Elektro/Semester 4/PMC/Semester ganjil/Praktek/kelompok_3/Tutorial/build/test/Debug/TutorialTests.exe"
+Directory: E:/Kuliah/Elektro/Semester 4/PMC/Semester ganjil/Praktek/kelompok_3/Tutorial/build/test
+"TutorialTests" start time: Nov 21 16:27 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+Running main() from E:\Kuliah\Elektro\Semester 4\PMC\Semester ganjil\Praktek\kelompok_3\Tutorial\googletest\googletest\src\gtest_main.cc
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from Tutorial__Absolut__Test
+[ RUN      ] Tutorial__Absolut__Test.absolut
+[       OK ] Tutorial__Absolut__Test.absolut (0 ms)
+[----------] 1 test from Tutorial__Absolut__Test (0 ms total)
+
+[----------] 1 test from Tutorial__Kuadrat__Test
+[ RUN      ] Tutorial__Kuadrat__Test.kuadrat
+[       OK ] Tutorial__Kuadrat__Test.kuadrat (0 ms)
+[----------] 1 test from Tutorial__Kuadrat__Test (0 ms total)
+
+[----------] 1 test from Tutorial__Fibbo__Test
+[ RUN      ] Tutorial__Fibbo__Test.fibbo
+[       OK ] Tutorial__Fibbo__Test.fibbo (0 ms)
+[----------] 1 test from Tutorial__Fibbo__Test (0 ms total)
+
+[----------] 1 test from Tutorial__Max__Test
+[ RUN      ] Tutorial__Max__Test.max
+[       OK ] Tutorial__Max__Test.max (0 ms)
+[----------] 1 test from Tutorial__Max__Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (3 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialTests" end time: Nov 21 16:27 SE Asia Standard Time
+"TutorialTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 21 16:27 SE Asia Standard Time

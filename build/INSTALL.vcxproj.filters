@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Kuliah\Elektro\Semester 4\PMC\Semester ganjil\Praktek\kelompok_3\Tutorial\build\CMakeFiles\6c0121abe8790ba69298e0738b357787\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{71D8C237-14CF-377C-9E98-CD377A1E3369}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
